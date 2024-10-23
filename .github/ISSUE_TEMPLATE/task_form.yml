@@ -23,6 +23,7 @@ body:
       description: Liste os critérios de validação que devem ser atendidos.
     validations:
       required: false
+  - type: checkboxes
     id: terms
     attributes:
       label: Código de Conduta
