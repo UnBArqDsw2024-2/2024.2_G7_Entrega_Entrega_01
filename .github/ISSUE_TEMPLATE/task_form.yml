@@ -1,0 +1,34 @@
+name: Tarefa
+description: Nova tarefa a ser concluída
+labels: ["task"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrição
+      description: Descreva a issue a ser feita.
+    validations:
+      required: true
+  - type: textarea
+    id: tasks
+    attributes:
+      label: Tarefas
+      description: Liste as tarefas a serem realizadas.
+    validations:
+      required: true
+  - type: textarea
+    id: validation-criteria
+    attributes:
+      label: Critérios de Validação
+      description: Liste os critérios de validação que devem ser atendidos.
+    validations:
+      required: false
+    id: terms
+    attributes:
+      label: Código de Conduta
+      description: Criando essa issue, você concorda em cumprir nosso [Código de Conduta](../blob/master/CODE_OF_CONDUCT.md)
+      options:
+        - label: Concordo em cumprir o Código de Conduta do projeto
+          required: true
+
+    
