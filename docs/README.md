@@ -1,10 +1,12 @@
 # Entrega
 
+## 📃 Informações acadêmicas
+
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 07<br>
 **Entrega**: 01<br>
 
-## Alunos
+## 👥 Alunos
 
 | Matrícula   | Aluno | 📷 |
 |-------------|---------------------------------------------------------|-------------|
@@ -22,7 +24,7 @@
 | 211062437   | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) | <img width="100" src="https://github.com/raquel-andrade.png" style="border-radius: 50px"/> |
 | 231032121   | [Wolfgang Friedrich Stein](https://github.com/Wolffstein) | <img width="100" src="https://github.com/Wolffstein.png" style="border-radius: 50px"/> |
 
-## Sobre 
+## 💡 Sobre 
 Contextualize, usando referências, links, e outros materiais como fontes.
 
 ## Screenshots da Primeira Entrega
