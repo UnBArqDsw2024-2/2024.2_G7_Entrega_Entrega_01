@@ -1,4 +1,4 @@
-# Contribuindo
+# Contribuição
 
 Este guia tem como objetivo estabeler o padrão para a contribuição no projeto
 
@@ -56,3 +56,9 @@ Pull requests são a forma de contribuir com o projeto. Para criar um pull reque
 ## Revisão de Contribuições
 
 Após a criação do pull request, um membro do time fará a revisão da contribuição. Caso haja alguma sugestão de melhoria, você deve fazer as alterações necessárias e adicionar um novo commit na branch do pull request.
+
+## Histórico de Versões
+
+| Versão | Data      | Autor(es) | Descrição | Revisor(es) |
+|--------|-----------|-----------|-----------|-------------|
+| 1.0 | 27/10/2024 | Lucas Martins | Criação do documento | Felipe Araujo |
