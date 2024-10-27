@@ -15,7 +15,7 @@ Issues são a forma de reportar problemas, bugs, melhorias e novas features. Par
 
 ### Branch Principal
 
-A branch principal do projeto é a `main`. Ela é a branch de produção e é protegida, ou seja, não é possível fazer push diretamente nela. Para contribuir com o projeto, você deve criar uma branch a partir da `main` e fazer um pull request para a `main`.
+A branch principal do projeto é a `main`. Ela é protegida, ou seja, não é possível fazer push diretamente nela. Para contribuir com o projeto, você deve criar uma branch a partir da `main` e fazer um pull request para a `main`.
 
 ### Branches de Desenvolvimento
 
