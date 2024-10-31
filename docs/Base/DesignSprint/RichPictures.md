@@ -27,6 +27,10 @@ Afim de entender melhor o funcionamento de um aplicativo "Delivery", cada integr
 
 </center>
 
+## Referências
+
+1. CTEC2402 Software Development Project. Introducing Rich Pictures. Disponível em: https://www.scribd.com/document/227529428/Rich-Picture-Guidelines Acesso em 31 de outubro 2024.
+
 ## Histórico de Versões
 
 | Versão | Data da alteração | Comentário                                             | Autor(es)                                       | Revisor(es) | Data de revisão |
