@@ -32,7 +32,7 @@ Para a construção dos diagramas de causa e efeito, o grupo 7 usará a ferramen
 
 ![Diagrama de Causa Efeito Entregas no Prazo](./assets/entregas-no-prazo.png)
 
-**Autor**: <!-- TODO -->
+**Autor**: [Felipe Amorim](https://github.com/lipeaaraujo)
 
 ### HungryHub
 
@@ -52,5 +52,6 @@ Para a construção dos diagramas de causa e efeito, o grupo 7 usará a ferramen
 | Versão | Data da alteração | Comentário                         | Autor(es)                                       | Revisor(es) | Data de revisão |
 | ------ | ----------------- | ---------------------------------- | ----------------------------------------------- | ----------- | --------------- |
 | 1.0    | 01/11/2024        | Criação da introdução do documento | [Felipe Amorim](https://github.com/lipeaaraujo) |             |                 |
-| 1.1    | 01/11/2024        | Adição da metodologia              | [Guilherme Westphall](https://github.com/west7) |             |                 |
-| 1.2    | 01/11/2024        | Adição dos diagramas               | [Guilherme Westphall](https://github.com/west7) |             |                 |  |
+| 1.1    | 02/11/2024        | Adição da metodologia              | [Guilherme Westphall](https://github.com/west7) |             |                 |
+| 1.2    | 02/11/2024        | Adição dos diagramas               | [Guilherme Westphall](https://github.com/west7) |             |                 |  |
+| 1.3    | 02/11/2024        | Adição do diagrama de entregas no prazo               | [Felipe Amorim](https://github.com/lipeaaraujo) |             |                 |  |
