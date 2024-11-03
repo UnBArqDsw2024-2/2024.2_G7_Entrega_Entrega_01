@@ -42,6 +42,18 @@ Para a construção dos diagramas de causa e efeito, o grupo 7 usará a ferramen
 
 **Autor**: [Guilherme Westphall](https://github.com/west7)
 
+**Diagrama 5**: Aproveitamento de sprints
+
+![Diagrama de Causa Efeito HungryHub](./assets/AproveitamentoCE.png)
+
+**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0)
+
+**Diagrama 6**: Compreensão sobre o aplicativo
+
+![Diagrama de Causa Efeito HungryHub](./assets/fundamentosCE.png)
+
+**Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0)
+
 ## Referências
 
 1. SERRANO, Milene. Arquitetura e Desenho de Software: Projeto e Desenho de Software. Aprender3. Acesso em: 02 de novembro de 2024
@@ -55,3 +67,4 @@ Para a construção dos diagramas de causa e efeito, o grupo 7 usará a ferramen
 | 1.1    | 02/11/2024        | Adição da metodologia              | [Guilherme Westphall](https://github.com/west7) |             |                 |
 | 1.2    | 02/11/2024        | Adição dos diagramas               | [Guilherme Westphall](https://github.com/west7) |             |                 |  |
 | 1.3    | 02/11/2024        | Adição do diagrama de entregas no prazo               | [Felipe Amorim](https://github.com/lipeaaraujo) |             |                 |  |
+| 1.4    | 02/11/2024        | Adição do diagrama 5 e 6           | [Leonardo Aguiar](https://github.com/Leonardo0o0) |             |                 |
