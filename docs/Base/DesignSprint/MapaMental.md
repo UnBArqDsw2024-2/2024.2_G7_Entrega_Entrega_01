@@ -30,4 +30,4 @@ Para a criação do mapa mental foi realizada uma reunião, com uma abordagem co
 
 | Versão | Data da alteração | Comentário | Autor(es) | Revisor(es) | Data de revisão |
 |--------|-----------|-----------|-----------|-------------|-------------|
-| 1.0 | 02/11/2024 | Adiciona Introdução, Metodologia e Mapa mental  | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |  |  |
+| 1.0 | 02/11/2024 | Adiciona Introdução, Metodologia e Mapa mental  | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) | [Davi Pierre](https://github.com/DaviPierre) |  |
