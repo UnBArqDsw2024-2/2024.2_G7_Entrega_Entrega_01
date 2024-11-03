@@ -18,7 +18,13 @@ O Rich Picture a seguir representa o sistema de delivery de comida que será des
 
 ![Rich Picture](./assets/richpicture.png)
 
-**Autor**: [Lucas Martins](https://github.com/martinsglucas)
+**Autores**: [Lucas Martins](https://github.com/martinsglucas), [Guilherme Silva Dutra](https://github.com/GuiDutra21) e [Wolfgang Friedrich Stein](https://github.com/Wolffstein)
+
+**Figura 2** Legenda
+
+![Legenda](./assets/legenda_richPicture.png)
+
+**Autores**: [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Lucas Martins](https://github.com/martinsglucas) e [Wolfgang Friedrich Stein](https://github.com/Wolffstein)
 
 </center>
 
@@ -31,3 +37,4 @@ O Rich Picture a seguir representa o sistema de delivery de comida que será des
 | Versão | Data da alteração | Comentário                                                                                                                         | Autor(es)                                         | Revisor(es) | Data de revisão |
 |--------|-------------------|------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|-------------|-----------------|
 | 1.0    | 01/11/2024        | Adiciona introdução, metodologia e evolução do rich picture (confirmação do pedido e recebimento do status do pedido pelo cliente) | [Lucas Martins](https://github.com/martinsglucas) |             |                 |
+| 1.1 | 02/11/2024 | Adiciona legenga e finaliza evolução (método de pagamento, fluxo do dinheiro, avaliações, recomendações, cadastro dos entregadores) | [Guilherme Silva Dutra](https://github.com/GuiDutra21), [Lucas Martins](https://github.com/martinsglucas) e [Wolfgang Friedrich Stein](https://github.com/Wolffstein) | | |
