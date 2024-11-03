@@ -18,7 +18,18 @@ Para a criação do mapa mental foi realizada uma reunião, com uma abordagem co
 
 **Autor**: [Bruno Cunha Vasconcelos de Araújo](https://github.com/brunocva), [Davi Gonçalves Akegawa Pierre](https://github.com/DaviPierre), [Felipe Amorim](https://github.com/lipeaaraujo), [Gabryel Nicolas Soares de Sousa](https://github.com/gabryelns), [Júlio Roberto da Silva Neto](https://github.com/JulioR2022), [Lucas Martins Gabriel](https://github.com/martinsglucas), [Guilherme Westphall de Queiroz](https://github.com/west7), [Kallyne Macedo Passos](https://github.com/kalipassos), [Kauan de Torres Eiras](https://github.com/kauaneiras), [Leonardo Sobrinho de Aguiar](https://github.com/Leonardo0o0), [Wolfgang Friedrich Stein](https://github.com/Wolffstein) |
 
+</center>
+
+Nesse mapa mental foram feitos quatro tópicos que auxiliam no desenvolvimento do aplicativo de delivery que foi proposto. Esses quatro tópicos são: 
+* **Tecnologias:** Foi decidido que o aplicativo será feito em base mobile, onde o frontend é desenvolvido em React Native, comunicando-se com um backend em Django (Python) e utilizando PostgreSQL como banco de dados para armazenamento das informações. 
+* **Funcionalidades:** Um tópico que reúne o que foi discutido sobre o mínimo que um aplicativo focado em delivery deveria ter para atender as necessidades de seus usuários.
+* **Setores de delivery:** Reúne as possíveis vertentes de aplicativo de delivery que foram discutidas durante a reunião, onde foi decidido que focaremos em um aplicativo de entrega de comida.
+* **Aplicativos similares:** Reúne um conjunto de aplicativos já existentes que poderiam trazer alguma inspiração para o desenvolvimento do nosso projeto.
+
+<center>
+
 **Link**: https://excalidraw.com/#json=auQh_2HDYa5DChj1MYIny,K_F58nZ4YLJgrZdPg9VQtw
+
 </center>
 
 ## Referências
@@ -31,3 +42,4 @@ Para a criação do mapa mental foi realizada uma reunião, com uma abordagem co
 | Versão | Data da alteração | Comentário | Autor(es) | Revisor(es) | Data de revisão |
 |--------|-----------|-----------|-----------|-------------|-------------|
 | 1.0 | 02/11/2024 | Adiciona Introdução, Metodologia e Mapa mental  | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |  |  |
+| 1.1 | 03/11/2024 | Adiciona Descrição do mapa mental  | [Leonardo Aguiar](https://github.com/Leonardo0o0) |  |  |

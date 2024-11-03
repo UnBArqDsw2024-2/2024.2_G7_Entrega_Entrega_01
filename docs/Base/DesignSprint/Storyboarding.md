@@ -28,8 +28,56 @@ Foi organizada uma reunião entre os integrantes da equipe para que em conjunto 
 
 1. Storyboard. Disponivel em: https://miro.com/pt/storyboard/o-que-e-storyboard/#como-storyboards-s%C3%A3o-usados-na-%C3%A1rea-de-product?
 
+## Fluxo do artefato produzido
+
+* **Painel 1:**
+
+    No painel 1, foi representado um cliente do aplicativo a ser produzido, nele o cliente resolve pedir um lanche para comer.
+
+* **Painel 2:**
+
+    No painel 2, mostra o que seria o início do fluxo do cliente em nosso aplicativo, ele esta na pagina inicial selecionando a aba de pesquisa.
+
+* **Painel 3:**
+
+    No painel 3, mostra a página de pesquisa onde o cliente seleciona um lanche que ele gostou.
+
+* **Painel 4:**
+
+    No painel 4, mostra a página de seleção do lanche, onde o cliente pode adicionar o lanche ao carrinho, e o cliente o adiciona no carrinho.
+
+* **Painel 5:**
+
+    No painel 5, mostra a página de seleção de lanche, onde o cliente decide abrir o carrinho.
+
+* **Painel 6:**
+    
+    No painel 6, mostra a página do carrinho, onde o cliente pode ver os lanches que estão no carrinho e pode decidir realizar a compra, nesse caso o cliente está finalizando o pedido.
+
+* **Painel 7:**
+    
+    No painel 7, mostra o que seria a loja recebendo o pedido que 
+    nosso cliente fez.
+
+* **Painel 8:**
+
+    No painel 8, mostra o entregador recebendo a notificação de entrega do pedido do nosso cliente.
+
+* **Painel 9:**
+
+    No painel 9, mostra o entregador aceitando a entrega no que seria a página de visualização de viagem do aplicativo.
+
+* **Painel 10:**
+
+    No painel 10, mostra o entregador pegando o pedido do nosso cliente.
+
+* **Painel 11:**
+
+    No painel 11, mostra o entregador entregando o pedido do nosso cliente.
+
 ## Histórico de Versões
 
 | Versão | Data da alteração | Comentário | Autor(es) | Revisor(es) | Data de revisão |
 |--------|-----------|-----------|-----------|-------------|-------------|
 | 1.0 | 02/11/2024 | Adiciona Introdução, Metodologia e inserção de artefatos produzidos  | [Júlio Roberto da Silva Neto](https://github.com/JulioR2022) |  |  |
+| 1.1 | 03/11/2024 | Adiciona Fluxo do Storyboard  | [Leonardo Aguiar](https://github.com/Leonardo0o0) |  |  |
