@@ -6,20 +6,32 @@ A técnica de elicitação conhecida como **Brainstorming** se trata de um méto
 
 ## Metodologia
 
-A equipe trabalhou a técnica do brainstorming na etapa de levantamento de requisitos durante a [Design Sprint](../1.1.DesignSprint.md), em um momento em que os integrantes se reuniram com a intenção de construir um mapa mental consolidando as ideias levantadas que foram consideradas mais relevantes para o projeto. Assim como na etapa de levantamento de requisitos por introspecção, essa fase foi realizada sem o uso o sistema. Através da análise do mapa mental, os participantes dessa técnica documentaram o conjunto de requisitos de forma individual e estão listados na **Tabela 1** abaixo:
+A equipe trabalhou a técnica do brainstorming na etapa de levantamento de requisitos durante a [Design Sprint](../1.1.DesignSprint.md), em um momento em que os integrantes se reuniram com a intenção de construir um [Mapa mental](../MapaMental.md) consolidando as ideias levantadas que foram consideradas mais relevantes para o projeto. Assim como na etapa de levantamento de requisitos por introspecção, essa fase foi realizada sem o uso do sistema. Através da análise do mapa mental, os participantes dessa técnica documentaram o conjunto de requisitos de forma individual e estão listados na **Tabela 1** abaixo:
 
 **Tabela 1**: Participantes
 
-| Nome                                            | Matrícula | Requisitos   |
-|-------------------------------------------------|-----------|--------------|
-| [Kallyne Passos](https://github.com/kalipassos) | 202046229 | **Tabela 2** |
+| Matrícula | Aluno                                                            |
+| --------- | ---------------------------------------------------------------- |
+| 221034973 | [Bruno Cunha Vasconcelos de Araújo](https://github.com/brunocva) |
+| 190105071 | [Davi Gonçalves Akegawa Pierre](https://github.com/DaviPierre)   |
+| 221022275 | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo)        |
+| 221022570 | [Gabryel Nicolas Soares de Sousa](https://github.com/gabryelns)  |
+| 221021984 | [Guilherme Silva Dutra](https://github.com/GuiDutra21)           |
+| 211061805 | [Guilherme Westphall de Queiroz](https://github.com/west7)       |
+| 221022041 | [Júlio Roberto da Silva Neto](https://github.com/JulioR2022)     |
+| 202046229 | [Kallyne Macedo Passos](https://github.com/kalipassos)           |
+| 232014727 | [Kauan de Torres Eiras](https://github.com/kauaneiras)           |
+| 200022199 | [Leonardo Sobrinho de Aguiar](https://github.com/Leonardo0o0)    |
+| 221022088 | [Lucas Martins Gabriel](https://github.com/martinsglucas)        |
+| 211062437 | [Raquel Ferreira Andrade](https://github.com/raquel-andrade)     |
+| 231032121 | [Wolfgang Friedrich Stein](https://github.com/Wolffstein)        |
 
 ## Resultados
 
 **Tabela 2**: Requisitos elicitados
 
 | Número | Descrição                                                                       | Tipo |
-|--------|---------------------------------------------------------------------------------|------|
+| ------ | ------------------------------------------------------------------------------- | ---- |
 | 01     | O aplicativo deve permitir o cadastro de clientes                               | RF   |
 | 02     | O aplicativo deve permitir o cadastro de entregadores                           | RF   |
 | 03     | O aplicativo deve permitir o cadastro de lojas                                  | RF   |
@@ -56,5 +68,6 @@ A equipe trabalhou a técnica do brainstorming na etapa de levantamento de requi
 ## Histórico de versões
 
 | Versão | Data da alteração | Comentário                                                              | Autor(es)                                       | Revisor(es) | Data de revisão |
-|--------|-------------------|-------------------------------------------------------------------------|-------------------------------------------------|-------------|-----------------|
+| ------ | ----------------- | ----------------------------------------------------------------------- | ----------------------------------------------- | ----------- | --------------- |
 | 1.0    | 2/11/2024         | Criação do artefato, com introdução, metodologia e tabela de requisitos | [Kallyne Passos](https://github.com/kalipassos) |             |                 |
+| 1.1    | 2/11/2024         | Alteração na tabela 1 e na Metodologia                                  | [Guilherme Westphall](https://github.com/west7) |             |                 |

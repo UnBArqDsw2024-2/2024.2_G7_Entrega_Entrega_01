@@ -10,10 +10,10 @@ A equipe utilizou a introspecção na etapa de levantamento de requisitos durant
 
 **Tabela 1**: Participantes
 
-| Nome                                            | Matrícula | Requisitos   |
-|-------------------------------------------------|-----------|--------------|
-| [Guilherme Westphall](https://github.com/west7) | 211061805 | **Tabela 2** |
-| [Kallyne Passos](https://github.com/kalipassos) | 202046229 | **Tabela 2** |
+| Nome                                            | Matrícula |    
+|-------------------------------------------------|-----------|
+| [Guilherme Westphall](https://github.com/west7) | 211061805 | 
+| [Kallyne Passos](https://github.com/kalipassos) | 202046229 | 
 
 ## Resultados
 
