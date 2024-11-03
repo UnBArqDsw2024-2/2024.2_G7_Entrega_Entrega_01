@@ -12,7 +12,7 @@ Para a criação do mapa mental foi realizada uma reunião, com uma abordagem co
 
 <center>
 
-**Figura 1**: Storyboarding
+**Figura 1**: Mapa Mental
 
 ![Mapa Mental](assets/mapaMental.png)
 
