@@ -11,7 +11,7 @@
       - [1.1.1. Mapa Mental](/Base/DesignSprint/MapaMental.md)
       - [1.1.2. Rich Pictures](/Base/DesignSprint/RichPictures.md)
       - [1.1.3. Storyboarding](/Base/DesignSprint/Storyboarding.md)
-      - [1.1.4. Protótipo](/Base/DesignSprint/MapaMental.md)
+      - [1.1.4. Protótipo](/Base/DesignSprint/Prototipo.md)
     - [1.2. Artefato Generalista](/Base/ArtefatoGeneralista/1.2.ArtefatoGeneralista.md)
       - [1.2.1. 5W2H](/Base/ArtefatoGeneralista/5W2H.md)
       - [1.2.2. Mapa Mental](/Base/ArtefatoGeneralista/MapaMental.md)
