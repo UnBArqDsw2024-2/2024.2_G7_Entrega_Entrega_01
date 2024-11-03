@@ -23,7 +23,6 @@ Afim de entender melhor o funcionamento de um aplicativo "Delivery", cada integr
 
 ![Rich Picture](assets/rp_guilherme.jpeg)
 
-**Autor**: [Guilherme Westphall](https://github.com/west7)
 
 </center>
 
