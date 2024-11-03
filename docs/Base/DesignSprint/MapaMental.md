@@ -41,5 +41,5 @@ Nesse mapa mental foram feitos quatro tópicos que auxiliam no desenvolvimento d
 
 | Versão | Data da alteração | Comentário | Autor(es) | Revisor(es) | Data de revisão |
 |--------|-----------|-----------|-----------|-------------|-------------|
-| 1.0 | 02/11/2024 | Adiciona Introdução, Metodologia e Mapa mental  | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) |  |  |
+| 1.0 | 02/11/2024 | Adiciona Introdução, Metodologia e Mapa mental  | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) | [Davi Pierre](https://github.com/DaviPierre) | 03/11/2024 |
 | 1.1 | 03/11/2024 | Adiciona Descrição do mapa mental  | [Leonardo Aguiar](https://github.com/Leonardo0o0) |  |  |
