@@ -54,6 +54,18 @@ Para a construção dos diagramas de causa e efeito, o grupo 7 usará a ferramen
 
 **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0)
 
+**Diagrama 7**: Escalabilidade e Manutenção do Sistema
+
+![Diagrama de Integração e Testes](./assets/problemas%20de%20integração%20e%20testes.png)
+
+**Autor**: [Kauan Eiras](https://github.com/Kauaneiras)
+
+**Diagrama 8**: Escalabilidade e Manutenção do Sistema
+
+![Diagrama de Escalabilidade e Manutenção do Sistema](./assets/escalabilidade%20e%20manutenção%20do%20sistema.png)
+
+**Autor**: [Kauan Eiras](https://github.com/Kauaneiras)
+
 ## Referências
 
 1. SERRANO, Milene. Arquitetura e Desenho de Software: Projeto e Desenho de Software. Aprender3. Acesso em: 02 de novembro de 2024
@@ -68,3 +80,5 @@ Para a construção dos diagramas de causa e efeito, o grupo 7 usará a ferramen
 | 1.2    | 02/11/2024        | Adição dos diagramas               | [Guilherme Westphall](https://github.com/west7) |             |                 |  |
 | 1.3    | 02/11/2024        | Adição do diagrama de entregas no prazo               | [Felipe Amorim](https://github.com/lipeaaraujo) |             |                 |  |
 | 1.4    | 02/11/2024        | Adição do diagrama 5 e 6           | [Leonardo Aguiar](https://github.com/Leonardo0o0) |             |                 |
+| 1.5    | 03/11/2024        | Adição do diagrama Diagrama de Integração e Testes           | [Kauan Eiras](https://github.com/kauaneiras) |             |                 |
+| 1.6    | 03/11/2024        | Adição do diagrama Diagrama de Escalabilidade e Manutenção do Sistema           | [Kauan Eiras](https://github.com/kauaneiras) |             |                 |
