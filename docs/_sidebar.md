@@ -11,7 +11,7 @@
       - [1.1.1. Mapa Mental](/Base/DesignSprint/MapaMental.md)
       - [1.1.2. Rich Pictures](/Base/DesignSprint/RichPictures.md)
       - [1.1.3. Storyboarding](/Base/DesignSprint/Storyboarding.md)
-      - [1.1.4. Protótipo](/Base/DesignSprint/MapaMental.md)
+      - [1.1.4. Protótipo](/Base/DesignSprint/Prototipo.md)
       - Requisitos
         - Elicitação de Requisitos
           - [1.1.5 Introspecção](/Base/DesignSprint/Requisitos/Introspeccao.md)
