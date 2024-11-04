@@ -23,7 +23,6 @@ A fim de entender melhor o funcionamento de um aplicativo "Delivery", cada integ
 
 ![Rich Picture](assets/rp_guilherme.jpeg)
 
-**Autor**: [Guilherme Westphall](https://github.com/west7)
 
 
 **Figura 3**: Rich Picture 3
