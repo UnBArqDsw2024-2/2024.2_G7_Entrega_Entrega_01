@@ -14,7 +14,8 @@ adequado de acordo com o estágio do projeto e os objetivos da equipe. Os princi
 alta fidelidade.
 
 ### Metodologia
-A criação do protótipo foi realizada utilizando **Figma**, uma ferramenta de design colaborativo. A equipe adotou uma abordagem iterativa, começando com a definição dos requisitos principais, layout e experiência do usuário. A estrutura do protótipo seguiu os fluxos estabelecidos na fase de ideação, abrangendo os processos de visualização de pedidos, acompanhamento de entregas e gerenciamento de perfil do usuário.
+
+A criação do protótipo foi realizada utilizando o **Figma**, uma ferramenta de design colaborativo. A equipe adotou uma abordagem iterativa, começando com a definição dos requisitos principais, layout e experiência do usuário. A estrutura do protótipo seguiu os fluxos estabelecidos na fase de ideação, abrangendo os processos de visualização de pedidos, acompanhamento de entregas e gerenciamento de perfil do usuário.
 
 ### Fluxos do Protótipo
 
@@ -78,7 +79,7 @@ de uma aparência quase idêntica ao design final.
 **Iframe do Protótipo de Média fidelidade**
 
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/VLoFSv97Gs18fCkmhiHxiy/Prot%C3%B3tipo-Entrega---ARQDSW?node-id=19-125&node-type=frame&t=Gk0xjhrmU70KeZDu-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=19%3A125&show-proto-sidebar=1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/VLoFSv97Gs18fCkmhiHxiy/Protótipo-Entrega---ARQDSW?node-id=19-125&starting-point-node-id=19%3A125&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>
 
 **Autor**
 
@@ -86,7 +87,7 @@ de uma aparência quase idêntica ao design final.
 
  **Iframe do Protótipo de Alta fidelidade**
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/VLoFSv97Gs18fCkmhiHxiy/Prot%C3%B3tipo-Entrega---ARQDSW?node-id=46-143&node-type=frame&t=kP4r4Fl0D7eLHDGl-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=46%3A143&show-proto-sidebar=1" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/VLoFSv97Gs18fCkmhiHxiy/Protótipo-Entrega---ARQDSW?node-id=46-143&starting-point-node-id=46%3A143&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>
 
 **Autores**
 
@@ -101,6 +102,6 @@ de uma aparência quase idêntica ao design final.
 
 | Versão | Data da alteração | Comentário | Autor(es) | Revisor(es) | Data de revisão |
 |--------|-----------|-----------|-----------|-------------|-------------|
-| 1.0 | 02/11/2024 | Adição da introdução | [Guilherme Silva Dutra](https://github.com/GuiDutra21) |  |  |
-| 1.1 | 03/11/2024 | Adição da metodologia e Protótipo | [Bruno Araújo](https://github.com/brunocva) |  |  |
-| 1.2 | 03/11/2024 | Adição do prototipo de Média | [Leonardo Aguiar](https://github.com/Leonardo0o0) |  |  |
+| 1.0 | 02/11/2024 | Adição da introdução | [Guilherme Silva Dutra](https://github.com/GuiDutra21) | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) | 03/11/2024 |
+| 1.1 | 03/11/2024 | Adição da metodologia e Protótipo | [Bruno Araújo](https://github.com/brunocva) | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) | 03/11/2024 |
+| 1.2 | 03/11/2024 | Adição do prototipo de Média | [Leonardo Aguiar](https://github.com/Leonardo0o0) | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) | 03/11/2024 |
