@@ -98,4 +98,4 @@ A fim de entender melhor o funcionamento de um aplicativo "Delivery", cada integ
 | Versão | Data da alteração | Comentário                                             | Autor(es)                                       | Revisor(es) | Data de revisão |
 | ------ | ----------------- | ------------------------------------------------------ | ----------------------------------------------- | ----------- | --------------- |
 | 1.0    | 31/10/2024        | Adiciona Introdução, Metodologia e Rich pictures 1 e 2 | [Guilherme Westphall](https://github.com/west7) |             |                 |
-| 2.0    | 03/11/2024        | Adicionando Rich Pictures 3 a 11 | [Raquel Andrade](https://github.com/raquel-andrade), [Wolfgang Stein](https://github.com/Wolffstein) |             |                 |
+| 1.1    | 03/11/2024        | Adicionando Rich Pictures 3 a 11 | [Raquel Andrade](https://github.com/raquel-andrade), [Wolfgang Stein](https://github.com/Wolffstein) |   [Júlio Roberto da Silva Neto](https://github.com/JulioR2022)          |  04/11/2024   |
