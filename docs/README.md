@@ -1,4 +1,4 @@
-# Entrega
+# HungryHub
 
 ## 📃 Informações acadêmicas
 
@@ -25,21 +25,33 @@
 | 231032121   | [Wolfgang Friedrich Stein](https://github.com/Wolffstein) | <img width="100" src="https://github.com/Wolffstein.png" style="border-radius: 50px"/> |
 
 ## 💡 Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+O HungryHub é um aplicativo de entrega/delivery de comida, lanches e bebidas, que oferece acessibilidade e conveniência para clientes, entregadores e estabelecimentos por meio de uma plataforma simples e interativa com uma lógistica de entrega rápida e eficiente.
+
+Essa documentação visa armazenar e documentar todos os artefatos produzidos e resultados do desenvolvimento da primeira entrega do grupo 07 da disciplina de Arquitetura e Desenho de Software, ministrada pela professora Milene Serrano no segundo semestre letivo de 2024 na Universidade de Brasília (UnB). A primeira entrega se refere ao módulo **Base** das diretrizes do projeto incluindo aos focos de **Design Sprint** & **Artefato Generalista** & **Modelagem BPMN**.
 
 ## Screenshots da Primeira Entrega
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+
+<center>
+
+![Mapa Mental](assets/mapa-mental.png)
+![Protótipo](assets/prototipo.png)
+![Rich Picture](assets/rich-picture.png)
+![Modelagem BPMN](assets/bpmn.png)
+
+</center>
 
 ## Há algo a ser executado?
 
 ( ) SIM
 
-( ) NÃO
+(X) NÃO
 
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
 
 ## Histórico de Versão
 
 | Versão | Data da alteração | Comentário | Autor(es) | Revisor(es) | Data de revisão |
 | -- | -- | -- | -- | -- | -- |
 | 1.0 | 24/10/2024 | Criação do documento | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) | | |
+| 1.1 | 03/11/2024 | Criação do tópico Sobre | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) | | |
+| 1.2 | 04/11/2024 | Adição das screenshots | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) | | |
