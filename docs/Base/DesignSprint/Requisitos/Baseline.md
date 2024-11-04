@@ -78,4 +78,4 @@ A baseline de requisitos refere-se ao grupo de requisitos documentados no Softwa
 
 | Versão | Data da alteração | Comentário                                      | Autor(es)                                                                                        | Revisor(es) | Data de revisão |
 | ------ | ----------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------- | --------------- |
-| 1.0    | 03/11/2024        | Criação do artefato e da baseline de requisitos | [Kallyne Passos](https://github.com/kalipassos), [Guilherme Westphall](https://github.com/west7) |             |                 |
+| 1.0    | 03/11/2024        | Criação do artefato e da baseline de requisitos | [Kallyne Passos](https://github.com/kalipassos), [Guilherme Westphall](https://github.com/west7) |     [Guilherme Silva Dutra](https://github.com/GuiDutra21)        |     03/11/2024            |
