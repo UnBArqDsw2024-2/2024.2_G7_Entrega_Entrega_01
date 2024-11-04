@@ -6,7 +6,7 @@ A técnica de elicitação conhecida como **Introspecção**, ou *Insight*, requ
 
 ## Metodologia
 
-A equipe utilizou a introspecção na etapa de levantamento de requisitos durante a [Design Sprint](../1.1.DesignSprint.md). Os integrantes participaram de um exercício que consistia em se colocar no lugar de um usuário realizando dada funcionalidade. Essa etapa foi feita sem usar o sistema, somente com o que os integrantes se lembravam e conheciam do mesmo. Isso facilitou a elicitação dos requisitos funcionais. Os participantes dessa técnica geraram seu conjunto de requisitos de forma individual e estão listados na **Tabela 1** abaixo:
+A equipe utilizou a introspecção na etapa de levantamento de requisitos durante a [Design Sprint](../1.1.DesignSprint.md). Os integrantes participaram de um exercício que consistia em se colocar no lugar de um usuário e imaginar a realização de determinadas funcionalidades. Essa etapa foi feita sem usar o sistema, baseando-se apenas nas memórias e no conhecimento prévio dos integrantes. Essa abordagem facilitou a elicitação dos requisitos funcionais. Cada participante gerou individualmente seu conjunto de requisitos, os quais estão listados na **Tabela 1** a seguir:
 
 **Tabela 1**: Participantes
 
@@ -21,44 +21,42 @@ A equipe utilizou a introspecção na etapa de levantamento de requisitos durant
 
 | Número | Descrição                                                                                     | Tipo |
 |--------|-----------------------------------------------------------------------------------------------|------|
-| 1      | O usuário deve ser capaz de se registrar no sistema                                           | RF   |
-| 2      | O usuário deve ser capaz de fazer login no sistema                                            | RF   |
-| 3      | O usuário deve ser capaz editar seu perfil                                                    | RF   |
-| 4      | O usuário deve ser capaz de cadastrar ao menos um endereço no sistema                         | RF   |
-| 5      | O usuário deve ser capaz de visualizar os produtos disponíveis                                | RF   |
-| 6      | O usuário deve ser capaz de visualizar detalhes dos produtos ao clicar                        | RF   |
-| 7      | O usuário deve ser capaz de pesquisar por itens ou restaurantes específicos                   | RF   |
-| 8      | O usuário deve ser capaz de adicionar itens ao carrinho                                       | RF   |
-| 9      | O usuário deve ser capaz de visualizar o carrinho                                             | RF   |
-| 10     | O usuário deve ser capaz de remover itens do carrinho                                         | RF   |
-| 11     | O usuário deve ser capaz de finalizar a compra                                                | RF   |
-| 12     | O usuário deve ser capaz de acompanhar sua entrega através do aplicativo                      | RF   |
-| 13     | A loja deve ser capaz de se registrar no aplicativo                                           | RF   |
-| 14     | A loja deve ser capaz de cadastrar seu cardápio no aplicativo                                 | RF   |
-| 15     | A loja deve ser capaz de receber pedidos no aplicativo                                        | RF   |
-| 17     | A loja deve ser capaz de escolher entre entrega própria ou através de parceiros do aplicativo | RF   |
-| 18     | O entregador deve ser capaz de receber pedidos no aplicativo                                  | RF   |
-| 19     | O entregador deve ser capaz de localizar a loja através do aplicativo                         | RF   |
-| 20     | O entregador deve ser capaz de localizar o cliente através do aplicativo                      | RF   |
-| 21     | O usuário deve ser capaz de cadastrar dados bancários no aplicativo                           | RF   |
-| 22     | O usuário deve ser capaz de visualizar histórico de pedidos                                   | RF   |
-| 23     | O usuário deve ser capaz de visualizar status do pedido                                       | RF   |
-| 24     | O sistema deve proteger os dados bancários do usuário                                         | RNF  |
-| 25     | O sistema deve proteger os dados pessoais do usuário                                          | RNF  |
-| 26     | O mapa do aplicativo deve ser atualizado em tempo real                                        | RNF  |
-| 27     | A implementação do sistema deve seguir as diretrizes da LGPD                                  | RNF  |
-| 28     | O aplicativo deve iniciar em menos de 5 segundos                                              | RNF  |
-| 29     | O aplicativo deve ter disponibilidade em 99% do tempo                                         | RNF  |
-| 30     | O processamento de pagamentos deve ser concluído em até 10 segundos                           | RNF  |
-| 31     | A interface do sistema deve seguir as diretrizes do Android e iOS                             | RNF  |
-| 32     | A interface do sistema deve seguir as diretrizes WCAG 2.1 para acessibilidade                 | RNF  |
-| 33     | A interface do sistema deve ser adaptada para tamanhos distintos de tela de dispositivo       | RNF  |
+| <a id="i01">01</a>      | O usuário deve ser capaz de se registrar no sistema                                           | RF   |
+| <a id="i02">02</a>      | O usuário deve ser capaz de fazer login no sistema                                            | RF   |
+| <a id="i03">03</a>      | O usuário deve ser capaz de editar seu perfil                                                 | RF   |
+| <a id="i04">04</a>      | O usuário deve ser capaz de cadastrar ao menos um endereço no sistema                         | RF   |
+| <a id="i05">05</a>      | O usuário deve ser capaz de visualizar os produtos disponíveis                                | RF   |
+| <a id="i06">06</a>      | O usuário deve ser capaz de visualizar detalhes dos produtos ao clicar                        | RF   |
+| <a id="i07">07</a>      | O usuário deve ser capaz de pesquisar por itens ou restaurantes específicos                   | RF   |
+| <a id="i08">08</a>      | O usuário deve ser capaz de adicionar itens ao carrinho                                       | RF   |
+| <a id="i09">09</a>      | O usuário deve ser capaz de visualizar o carrinho                                             | RF   |
+| <a id="i10">10</a>     | O usuário deve ser capaz de remover itens do carrinho                                         | RF   |
+| <a id="i11">11</a>     | O usuário deve ser capaz de finalizar a compra                                                | RF   |
+| <a id="i12">12</a>     | O usuário deve ser capaz de acompanhar sua entrega através do aplicativo                      | RF   |
+| <a id="i13">13</a>     | A loja deve ser capaz de se registrar no aplicativo                                           | RF   |
+| <a id="i14">14</a>     | A loja deve ser capaz de cadastrar seu cardápio no aplicativo                                 | RF   |
+| <a id="i15">15</a>     | A loja deve ser capaz de receber pedidos no aplicativo                                        | RF   |
+| <a id="i17">17</a>     | A loja deve ser capaz de escolher entre entrega própria ou através de parceiros do aplicativo | RF   |
+| <a id="i18">18</a>     | O entregador deve ser capaz de receber pedidos no aplicativo                                  | RF   |
+| <a id="i19">19</a>     | O entregador deve ser capaz de localizar a loja através do aplicativo                         | RF   |
+| <a id="i20">20</a>     | O entregador deve ser capaz de localizar o cliente através do aplicativo                      | RF   |
+| <a id="i21">21</a>     | O usuário deve ser capaz de cadastrar dados bancários no aplicativo                           | RF   |
+| <a id="i22">22</a>     | O usuário deve ser capaz de visualizar histórico de pedidos                                   | RF   |
+| <a id="i23">23</a>     | O usuário deve ser capaz de visualizar status do pedido                                       | RF   |
+| <a id="i24">24</a>     | O sistema deve proteger os dados bancários do usuário                                         | RNF  |
+| <a id="i25">25</a>     | O sistema deve proteger os dados pessoais do usuário                                          | RNF  |
+| <a id="i26">26</a>     | O mapa do aplicativo deve ser atualizado em tempo real                                        | RNF  |
+| <a id="i27">27</a>     | A implementação do sistema deve seguir as diretrizes da LGPD                                  | RNF  |
+| <a id="i28">28</a>     | O aplicativo deve iniciar em menos de 5 segundos                                              | RNF  |
+| <a id="i29">29</a>     | O aplicativo deve ter disponibilidade em 99% do tempo                                         | RNF  |
+| <a id="i30">30</a>     | O processamento de pagamentos deve ser concluído em até 10 segundos                           | RNF  |
+| <a id="i31">31</a>     | A interface do sistema deve seguir as diretrizes do Android e iOS                             | RNF  |
+| <a id="i32">32</a>     | A interface do sistema deve seguir as diretrizes WCAG 2.1 para acessibilidade                 | RNF  |
+| <a id="i33">33</a>     | A interface do sistema deve ser adaptada para tamanhos distintos de tela de dispositivo       | RNF  |
 
 > Legendas: RF - Requisito Funcional; RNF - Requisito Não Funcional.
 
 **Autor**: [Guilherme Westphall](https://github.com/west7), [Kallyne Passos](https://github.com/kalipassos)
-
-
 
 ## Referências
 
@@ -70,7 +68,7 @@ A equipe utilizou a introspecção na etapa de levantamento de requisitos durant
 
 | Versão | Data da alteração | Comentário                                            | Autor(es)                                       | Revisor(es)                                     | Data de revisão |
 |--------|-------------------|-------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-----------------|
-| 1.0    | 1/11/2024         | Criação do artefato                                   | [Guilherme Westphall](https://github.com/west7) | [Kallyne Passos](https://github.com/kalipassos) | 2/11/2024       |
-| 1.1    | 1/11/2024         | Adição da introdução e metodologia                    | [Guilherme Westphall](https://github.com/west7) | [Kallyne Passos](https://github.com/kalipassos) | 2/11/2024       |
-| 1.2    | 1/11/2024         | Realização da técnica e adição das tabelas 1 e 2      | [Guilherme Westphall](https://github.com/west7) | [Kallyne Passos](https://github.com/kalipassos) | 2/11/2024       |
-| 1.3    | 2/11/2024         | Realização da técnica e modificações nas tabela 1 e 2 | [Kallyne Passos](https://github.com/kalipassos) |                                                 |                 |
+| 1.0    | 1/11/2024         | Criação do artefato                                   | [Guilherme Westphall](https://github.com/west7) | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) | 03/11/2024       |
+| 1.1    | 1/11/2024         | Adição da introdução e metodologia                    | [Guilherme Westphall](https://github.com/west7) | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) | 03/11/2024       |
+| 1.2    | 1/11/2024         | Realização da técnica e adição das tabelas 1 e 2      | [Guilherme Westphall](https://github.com/west7) | [Raquel Ferreira Andrade](https://github.com/raquel-andrade) | 03/11/2024       |
+| 1.3    | 2/11/2024         | Realização da técnica e modificações nas tabela 1 e 2 | [Kallyne Passos](https://github.com/kalipassos) | [Raquel Ferreira Andrade](https://github.com/raquel-andrade)  | 03/1/2024  |

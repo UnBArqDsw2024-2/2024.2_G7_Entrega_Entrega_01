@@ -32,32 +32,33 @@ A equipe trabalhou a técnica do brainstorming na etapa de levantamento de requi
 
 | Número | Descrição                                                                       | Tipo |
 |--------|---------------------------------------------------------------------------------|------|
-| 01     | O aplicativo deve permitir o cadastro de clientes                               | RF   |
-| 02     | O aplicativo deve permitir o cadastro de entregadores                           | RF   |
-| 03     | O aplicativo deve permitir o cadastro de lojas                                  | RF   |
-| 04     | A loja deve ser capaz de cadastrar cardápios                                    | RF   |
-| 05     | A loja deve ser capaz de gerir seus cardápios                                   | RF   |
-| 06     | O cliente deve ser capaz de buscar lojas                                        | RF   |
-| 07     | O cliente deve ser capaz de buscar produtos                                     | RF   |
-| 08     | O cliente deve ser capaz de realizar busca por geolocalização                   | RF   |
-| 09     | O aplicativo deve possibilitar suporte via chat                                 | RF   |
-| 10     | O aplicativo deve implementar ferramenta validadora de pagamentos               | RF   |
-| 11     | O aplicativo deve permitir entrega através de parceiros                         | RF   |
-| 12     | O aplicativo deve permitir retirada na loja                                     | RF   |
-| 13     | O aplicativo deve permitir entrega pela própria loja                            | RF   |
-| 14     | O cliente deve ser capaz de visualizar seu histórico de pedidos                 | RF   |
-| 15     | O cliente deve ser capaz de adicionar produtos no carrinho                      | RF   |
-| 16     | O cliente deve ser capaz de realizar compra automática através do histórico     | RF   |
-| 17     | O cliente deve ser capaz de avaliar entregadores                                | RF   |
-| 18     | O cliente deve ser capaz de avaliar lojas                                       | RF   |
-| 19     | O cliente deve ser capaz de comentar em avaliações                              | RF   |
-| 20     | O aplicativo deve ter suporte para múltiplas formas de pagamento                | RF   |
-| 21     | O aplicativo deve implementar protocolos de segurança para transações           | RF   |
-| 22     | O aplicativo deve ser desenvolvido em React Native para suporte multiplataforma | RNF  |
-| 23     | O backend do aplicativo deve ser desenvolvido em Django                         | RNF  |
-| 24     | O sistema do aplicativo deve utilizar PostgreSQL como banco de dados            | RNF  |
+| <a id="b01">01</a>     | O aplicativo deve permitir o cadastro de clientes                               | RF   |
+| <a id="b02">02</a>     | O aplicativo deve permitir o cadastro de entregadores                           | RF   |
+| <a id="b03">03</a>     | O aplicativo deve permitir o cadastro de lojas                                  | RF   |
+| <a id="b04">04</a>     | A loja deve ser capaz de cadastrar cardápios                                    | RF   |
+| <a id="b05">05</a>     | A loja deve ser capaz de gerir seus cardápios                                   | RF   |
+| <a id="b06">06</a>     | O cliente deve ser capaz de buscar lojas                                        | RF   |
+| <a id="b07">07</a>     | O cliente deve ser capaz de buscar produtos                                     | RF   |
+| <a id="b08">08</a>     | O cliente deve ser capaz de realizar busca por geolocalização                   | RF   |
+| <a id="b09">09</a>     | O aplicativo deve possibilitar suporte via chat                                 | RF   |
+| <a id="b10">10</a>     | O aplicativo deve implementar ferramenta validadora de pagamentos               | RF   |
+| <a id="b11">11</a>     | O aplicativo deve permitir entrega através de parceiros                         | RF   |
+| <a id="b12">12</a>     | O aplicativo deve permitir retirada na loja                                     | RF   |
+| <a id="b13">13</a>     | O aplicativo deve permitir entrega pela própria loja                            | RF   |
+| <a id="b14">14</a>     | O cliente deve ser capaz de visualizar seu histórico de pedidos                 | RF   |
+| <a id="b15">15</a>     | O cliente deve ser capaz de adicionar produtos no carrinho                      | RF   |
+| <a id="b16">16</a>     | O cliente deve ser capaz de realizar compra automática através do histórico     | RF   |
+| <a id="b17">17</a>     | O cliente deve ser capaz de avaliar entregadores                                | RF   |
+| <a id="b18">18</a>     | O cliente deve ser capaz de avaliar lojas                                       | RF   |
+| <a id="b19">19</a>     | O cliente deve ser capaz de comentar em avaliações                              | RF   |
+| <a id="b20">20</a>     | O aplicativo deve ter suporte para múltiplas formas de pagamento                | RF   |
+| <a id="b21">21</a>     | O aplicativo deve implementar protocolos de segurança para transações           | RF   |
+| <a id="b22">22</a>     | O aplicativo deve ser desenvolvido em React Native para suporte multiplataforma | RNF  |
+| <a id="b23">23</a>     | O backend do aplicativo deve ser desenvolvido em Django                         | RNF  |
+| <a id="b24">24</a>     | O sistema do aplicativo deve utilizar PostgreSQL como banco de dados            | RNF  |
 
 > Legendas: RF - Requisito Funcional; RNF - Requisito Não Funcional.
+<!-- não sabia desse simbolo ">" no markdown, vou passar a usar :) -felipe  -->
 
 **Autor**: [Kallyne Passos](https://github.com/kalipassos)
 
@@ -69,5 +70,5 @@ A equipe trabalhou a técnica do brainstorming na etapa de levantamento de requi
 
 | Versão | Data da alteração | Comentário                                                              | Autor(es)                                       | Revisor(es)                                     | Data de revisão |
 |--------|-------------------|-------------------------------------------------------------------------|-------------------------------------------------|-------------------------------------------------|-----------------|
-| 1.0    | 2/11/2024         | Criação do artefato, com introdução, metodologia e tabela de requisitos | [Kallyne Passos](https://github.com/kalipassos) | [Guilherme Westphall](https://github.com/west7) | 2/11/2024       |
-| 1.1    | 2/11/2024         | Alteração na tabela 1 e na Metodologia                                  | [Guilherme Westphall](https://github.com/west7) | [Kallyne Passos](https://github.com/kalipassos) | 3/11/2024       |
+| 1.0    | 02/11/2024         | Criação do artefato, com introdução, metodologia e tabela de requisitos | [Kallyne Passos](https://github.com/kalipassos) | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) | 03/11/2024       |
+| 1.1    | 02/11/2024         | Alteração na tabela 1 e na Metodologia                                  | [Guilherme Westphall](https://github.com/west7) |  [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) | 03/11/2024       |
