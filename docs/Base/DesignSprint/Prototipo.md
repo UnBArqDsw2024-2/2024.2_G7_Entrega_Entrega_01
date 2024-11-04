@@ -85,11 +85,11 @@ de uma aparência quase idêntica ao design final.
 
 [Felipe Amorim de Araújo](https://github.com/lipeaaraujo)
 
- **Iframe do Protótipo de Alta fidelidade**
+**Iframe do Protótipo de Alta fidelidade**
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/VLoFSv97Gs18fCkmhiHxiy/Protótipo-Entrega---ARQDSW?node-id=46-143&starting-point-node-id=46%3A143&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>
 
-**Autores**
+<a id = "autoresPrototipo">**Autores**</a>
 
 [Felipe Amorim de Araújo](https://github.com/lipeaaraujo),
 [Guilherme Silva Dutra](https://github.com/GuiDutra21),
