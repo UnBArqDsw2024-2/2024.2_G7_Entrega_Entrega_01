@@ -6,7 +6,7 @@ O diagrama de causa e efeito, ou diagrama de Ishikawa, é uma notação que apre
 
 ## Metodologia 
 
-Para a construção dos diagramas de causa e efeito, o grupo 7 usará a ferramenta [Excalidraw](https://excalidraw.com). Além disso não será usada a notação convencional do diagrama de Ishikawa, mas sim uma adaptação para o contexto do grupo, onde as categorias serão mais livres e diversas em comparação aos 6M definidos originalmente. Na totalidade foram desenvolvidos 4 diagramas de causa e efeito, sendo eles: "Baixa produtividade da equipe", "Não conclusão do desenvolvimento", "Entregas no prazo", sendo estes três mais voltados para o desenvolvimento do projeto da disciplina e o quarto sendo mais voltado para o projeto de software "HungryHub".
+Para a construção dos diagramas de causa e efeito, o grupo 7 usará a ferramenta [Excalidraw](https://excalidraw.com). Além disso não será usada a notação convencional do diagrama de Ishikawa, mas sim uma adaptação para o contexto do grupo, onde as categorias serão mais livres e diversas em comparação aos 6M definidos originalmente. Na totalidade foram desenvolvidos 8 diagramas de causa e efeito, sendo eles: "Baixa produtividade da equipe", "Não conclusão do desenvolvimento", "Entregas no prazo", sendo estes três mais voltados para o desenvolvimento do projeto da disciplina , o quarto sendo mais voltado para o projeto de software "HungryHub". Os restantes foram: "Aproveitamento de sprints", "Compreensão sobre o aplicativo", "Integração e Testes" e "Escalabilidade e Manutenção do Sistema".
 
 ## Diagramas de Causa e Efeito
 
@@ -54,7 +54,7 @@ Para a construção dos diagramas de causa e efeito, o grupo 7 usará a ferramen
 
 **Autor**: [Leonardo Aguiar](https://github.com/Leonardo0o0)
 
-**Diagrama 7**: Escalabilidade e Manutenção do Sistema
+**Diagrama 7**: Integração e Testes
 
 ![Diagrama de Integração e Testes](./assets/problemas%20de%20integração%20e%20testes.png)
 
@@ -75,10 +75,10 @@ Para a construção dos diagramas de causa e efeito, o grupo 7 usará a ferramen
 
 | Versão | Data da alteração | Comentário                         | Autor(es)                                       | Revisor(es) | Data de revisão |
 | ------ | ----------------- | ---------------------------------- | ----------------------------------------------- | ----------- | --------------- |
-| 1.0    | 01/11/2024        | Criação da introdução do documento | [Felipe Amorim](https://github.com/lipeaaraujo) |             |                 |
-| 1.1    | 02/11/2024        | Adição da metodologia              | [Guilherme Westphall](https://github.com/west7) |             |                 |
-| 1.2    | 02/11/2024        | Adição dos diagramas               | [Guilherme Westphall](https://github.com/west7) |             |                 |  |
-| 1.3    | 02/11/2024        | Adição do diagrama de entregas no prazo               | [Felipe Amorim](https://github.com/lipeaaraujo) |             |                 |  |
-| 1.4    | 02/11/2024        | Adição do diagrama 5 e 6           | [Leonardo Aguiar](https://github.com/Leonardo0o0) |             |                 |
-| 1.5    | 03/11/2024        | Adição do diagrama Diagrama de Integração e Testes           | [Kauan Eiras](https://github.com/kauaneiras) |             |                 |
-| 1.6    | 03/11/2024        | Adição do diagrama Diagrama de Escalabilidade e Manutenção do Sistema           | [Kauan Eiras](https://github.com/kauaneiras) |             |                 |
+| 1.0    | 01/11/2024        | Criação da introdução do documento | [Felipe Amorim](https://github.com/lipeaaraujo) |    [Júlio Roberto da Silva Neto](https://github.com/JulioR2022)   |        03/11/2024         |
+| 1.1    | 02/11/2024        | Adição da metodologia              | [Guilherme Westphall](https://github.com/west7) |        [Wolfgang Friedrich Stein](https://github.com/Wolffstein)     |       03/11/2024          |
+| 1.2    | 02/11/2024        | Adição dos diagramas               | [Guilherme Westphall](https://github.com/west7) |     [Wolfgang Friedrich Stein](https://github.com/Wolffstein)        |        03/11/2024         |  
+| 1.3    | 02/11/2024        | Adição do diagrama de entregas no prazo               | [Felipe Amorim](https://github.com/lipeaaraujo) |   [Wolfgang Friedrich Stein](https://github.com/Wolffstein)          |      03/11/2024           |  
+| 1.4    | 02/11/2024        | Adição do diagrama 5 e 6           | [Leonardo Aguiar](https://github.com/Leonardo0o0) |     [Júlio Roberto da Silva Neto](https://github.com/JulioR2022)        |            03/11/2024     |
+| 1.5    | 03/11/2024        | Adição do diagrama Diagrama de Integração e Testes           | [Kauan Eiras](https://github.com/kauaneiras) |      [Júlio Roberto da Silva Neto](https://github.com/JulioR2022)       |       03/11/2024          |
+| 1.6    | 03/11/2024        | Adição do diagrama Diagrama de Escalabilidade e Manutenção do Sistema           | [Kauan Eiras](https://github.com/kauaneiras) |        [Júlio Roberto da Silva Neto](https://github.com/JulioR2022)     |     03/11/2024    |
