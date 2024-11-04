@@ -12,6 +12,11 @@
       - [1.1.2. Rich Pictures](/Base/DesignSprint/RichPictures.md)
       - [1.1.3. Storyboarding](/Base/DesignSprint/Storyboarding.md)
       - [1.1.4. Protótipo](/Base/DesignSprint/MapaMental.md)
+      - Requisitos
+        - Elicitação de Requisitos
+          - [1.1.5 Introspecção](/Base/DesignSprint/Requisitos/Introspeccao.md)
+          - [1.1.6 Brainstorming](/Base/DesignSprint/Requisitos/Brainstorming.md)
+        - [1.1.7 Baseline](/Base/DesignSprint/Requisitos/Baseline.md)
     - [1.2. Artefato Generalista](/Base/ArtefatoGeneralista/1.2.ArtefatoGeneralista.md)
       - [1.2.1. 5W2H](/Base/ArtefatoGeneralista/5W2H.md)
       - [1.2.2. Diagrama Causa e Efeito](/Base/ArtefatoGeneralista/CausaEfeito.md)
