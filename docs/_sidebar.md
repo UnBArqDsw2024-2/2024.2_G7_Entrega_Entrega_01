@@ -23,4 +23,3 @@
       - [1.2.3. Rich Picture](/Base/ArtefatoGeneralista/RichPicture.md)
     - [1.3. Modelagem BPMN](/Base/ModelagemBPMN/1.3.ModelagemBPMN.md)
     - [1.4. Participações - Base](/Base/1.4.ParticipacoesBase.md)
-    - [1.5. Iniciativas Extras - Base](/Base/1.5.IniciativasExtras.md)
