@@ -32,6 +32,15 @@ Essa documentação visa armazenar e documentar todos os artefatos produzidos e 
 ## Screenshots da Primeira Entrega
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
+<center>
+
+![Mapa Mental](assets/mapa-mental.png)
+![Protótipo](assets/prototipo.png)
+![Rich Picture](assets/rich-picture.png)
+![Modelagem BPMN](assets/bpmn.png)
+
+</center>
+
 ## Há algo a ser executado?
 
 ( ) SIM
@@ -45,3 +54,4 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 | -- | -- | -- | -- | -- | -- |
 | 1.0 | 24/10/2024 | Criação do documento | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) | | |
 | 1.1 | 03/11/2024 | Criação do tópico Sobre | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) | | |
+| 1.2 | 04/11/2024 | Adição das screenshots | [Felipe Amorim de Araújo](https://github.com/lipeaaraujo) | | |
